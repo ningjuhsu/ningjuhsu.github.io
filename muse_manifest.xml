@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ningjuhsu.github.io" resolutions="1x" timestamp="1578836471204">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="bobbles.css" crc="142093968" ref="bobbles"/>
+    <file name="index.css" crc="4258966733" ref="index"/>
+    <file name="doorway-effect.css" crc="4228040460" ref="doorway-effect"/>
+    <file name="goldfish.css" crc="4240784309" ref="goldfish"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bobbles:goldfish:doorway-effect"/>
+    <file name="museutils.js" crc="3939489907" ref="index:bobbles:goldfish:doorway-effect"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bobbles:goldfish:doorway-effect"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:bobbles:goldfish:doorway-effect"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:bobbles:goldfish:doorway-effect"/>
+    <file name="require.js" crc="4177726516" ref="index:bobbles:goldfish:doorway-effect"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc05715-crop-u554.jpg" crc="215583214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190425-api_9016640x427.jpg" crc="400276619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人體舞動照片.jpg" crc="243637062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-01-03 下午113925.jpg" crc="91374381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-12-11 下午20023拷貝-crop-u104.jpg" crc="4175844622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190425-api_9016.jpg" crc="3825070020" seo="true" ref="bobbles">
+      <caption webpage="bobbles" alt=""/>
+    </file>
+    <file name="20190425-api_8958-crop-u269.jpg" crc="172287678" seo="true" ref="bobbles">
+      <caption webpage="bobbles" alt=""/>
+    </file>
+    <file name="20190425-api_8954-crop-u456.jpg" crc="4050364386" seo="true" ref="bobbles">
+      <caption webpage="bobbles" alt=""/>
+    </file>
+    <file name="dsc05715-crop-u348.jpg" crc="3802801899" seo="true" ref="goldfish">
+      <caption webpage="goldfish" alt=""/>
+    </file>
+    <file name="dsc05748-crop-u367.jpg" crc="111175915" seo="true" ref="goldfish">
+      <caption webpage="goldfish" alt=""/>
+    </file>
+    <file name="dsc00382.jpg" crc="152277650" seo="true" ref="goldfish">
+      <caption webpage="goldfish" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-01-03 下午114048.jpg" crc="480088269" seo="true" ref="doorway-effect">
+      <caption webpage="doorway-effect" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-01-03 下午45734.jpg" crc="3832402123" seo="true" ref="doorway-effect">
+      <caption webpage="doorway-effect" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-01-03 下午45451.jpg" crc="443961751" seo="true" ref="doorway-effect">
+      <caption webpage="doorway-effect" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-01-03 下午113925960x538.jpg" crc="4188242004" seo="true" ref="doorway-effect">
+      <caption webpage="doorway-effect" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="303700244" seo="true" mt="1578587745724" redirect="true"/>
+  <file name="bobbles.html" crc="3840682921" seo="true" mt="1578584126550" redirect="true"/>
+  <file name="goldfish.html" crc="433337384" seo="true" mt="1578551028703" redirect="true"/>
+  <file name="doorway-effect.html" crc="223675958" seo="true" mt="1578553864797" redirect="true"/>
+</manifest>
